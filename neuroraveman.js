@@ -1,4 +1,4 @@
-// "Strudelman will eat you"
+// "NeuroRaveman will eat you"
 // @by eefano
 setcps(1)
 

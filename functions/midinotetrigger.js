@@ -1,6 +1,6 @@
 // WARNING WARNING WARNING
 // - This actually CRASHES Firefox on Linux! BEWARE. Chrome is fine.
-// - Everytime strudel is refreshed, midi event are registered again causing leaks at a certain point.
+// - Everytime NeuroRave is refreshed, midi event are registered again causing leaks at a certain point.
 
 var keystatus = {}
 

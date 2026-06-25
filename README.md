@@ -1,7 +1,7 @@
-# strudel-songs-collection
-Songs created with Strudel, the live coding music tool
+# neurorave-songs-collection
+Songs created with NeuroRave, the live coding music tool
 
-1) GO TO: https://strudel.cc
+1) GO TO: https://neurorave.netlify.app
 2) Paste one of my songs into the editor and press the update button
 3) Have fun!
 

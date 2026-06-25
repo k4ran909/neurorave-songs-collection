@@ -1,4 +1,4 @@
-// "Strudelwall"
+// "NeuroRavewall"
 // guitar prototype @by eefano
 const standardtuning = [40,45,50,55,59,64];
 
